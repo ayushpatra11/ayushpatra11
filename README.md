@@ -26,7 +26,7 @@ More broadly, I am interested in systems where:
 
 ## Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatra11&layout=compact)
 
 ## Selected Work
 
@@ -50,8 +50,8 @@ More broadly, I am interested in systems where:
 - LinkedIn: https://linkedin.com/in/ayushpatra11  
 - GitHub: https://github.com/ayushpatra11
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushpatra11&theme=dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushpatra11&theme=github-compact)
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ayushpatra11&color=blue)
