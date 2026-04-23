@@ -1,46 +1,37 @@
 # Ayush Patra
 
-I am a software engineer focused on building and understanding low-latency, distributed systems.
+I am a software engineer focused on building and understanding low-latency, distributed systems. My work sits at the intersection of high-performance networking and hardware-software co-design.
 
-I began my career working in telecommunications and satellite communication systems, where I developed and optimised high-throughput, real-time infrastructure handling thousands of concurrent events per second. This experience shaped my interest in how systems behave under load, how performance degrades, and how to design for reliability at scale.
+I began my career in telecommunications and satellite communication systems, optimizing real-time infrastructure to handle high-concurrency workloads (2,500+ events/sec). This shaped my focus on how systems behave under extreme load and how to design for reliability when performance is a first-class constraint.
 
-I later pursued a Master's in Advanced Computer Science at the University of Manchester, where my work shifted toward the intersection of machine learning and systems. In particular, I have been exploring how learning-based models interact with constraints imposed by real-world execution environments.
-
-My recent work focuses on neuromorphic computing and spiking neural networks, where I study how communication patterns emerge from learned models and how they can be efficiently mapped onto hardware. This includes building simulation pipelines to analyse routing strategies, quantify inefficiencies, and better understand the trade-offs between accuracy, latency, and resource usage.
-
-More broadly, I am interested in systems where:
-- performance is a first-class constraint  
-- behaviour emerges from complex interactions  
-- theoretical models must be adapted to practical environments  
+Most recently, at the University of Manchester, I have been researching neuromorphic computing. I study how communication patterns emerge from spiking neural networks and how they can be efficiently mapped onto physical hardware through custom simulation pipelines and routing strategies.
 
 ---
 
-## Current Areas of Focus
+## Technical Interests
 
-- Low-latency and high-throughput systems  
-- Distributed systems and networked infrastructure  
-- Machine learning systems and infrastructure  
-- Neuromorphic computing and spiking neural networks  
+- **Distributed Infrastructure:** Designing resilient Layer 3/4 systems.
+- **Network Virtualization:** Exploring SDN, tunneling protocols, and container networking.
+- **Systems Craftsmanship:** Moving complex theoretical models into high-concurrency production environments.
 
 ---
 
-## Languages:
+## Technical Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatra11&layout=compact)
+- **Languages:** C++, Python, Go (Learning), Bash, JavaScript.
+- **Networking:** TCP/IP, UDP, BGP, OSPF, Wireshark, Linux Networking Stack.
+- **Tools & Infrastructure:** Docker, Git, GDB, Valgrind, Linux Internals.
+- **Research/ML:** PyTorch, snnTorch, NumPy/SciPy.
+
+---
 
 ## Selected Work
 
-- Spike Routing Simulation  
-  Simulation of multicast routing strategies (Neurogrid vs hierarchical bitstring) for neuromorphic systems, analysing communication efficiency and routing waste.
+### **High-Throughput SatCom Traffic Control Subsytem (Industry)**
+Optimized a C++ resource allocation engine for satellite/telecom systems. Focused on thread-safe concurrency and memory management to maintain sub-millisecond latency under high event volume.
 
-- Spiking Neural Network Pipeline  
-  Training and exporting SNN models using snnTorch to derive connectivity graphs for system-level simulation.
-
-- High-Throughput Telecom Systems (Industry)  
-  Designed and optimised call resource allocation systems in C++, supporting workloads of up to 2,500 calls per second with high reliability.
-
-- Image Classification Systems  
-  Comparative analysis of traditional computer vision pipelines and deep learning models, demonstrating the performance gap between handcrafted and learned representations.
+### **Neuromorphic Routing Simulation**
+Developed a C++/Python framework to analyze multicast routing strategies for spiking neural networks. The project quantifies routing waste and latency trade-offs when mapping logical connectivity to physical hardware constraints.
 
 ---
 
@@ -55,3 +46,5 @@ More broadly, I am interested in systems where:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushpatra11&theme=github-compact)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayushpatra11&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatra11&layout=compact)
