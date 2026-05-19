@@ -40,6 +40,7 @@ Developed a C++/Python framework to analyze multicast routing strategies for spi
 - Email: ayushpatra11@gmail.com  
 - LinkedIn: https://linkedin.com/in/ayushpatra11  
 - GitHub: https://github.com/ayushpatra11
+- Portfolio: https://ayushpatra11.uk
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ayushpatra11)](https://leetcode.com/ayushpatra11)
 
